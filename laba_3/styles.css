@@ -1,0 +1,12 @@
+fieldset{
+    height: 370px;
+    width: 330px;
+}
+
+
+#forms {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 300px;
+}
