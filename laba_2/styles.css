@@ -1,0 +1,81 @@
+body {
+    background-color: #f5b678;
+    width: 1440px;
+}
+
+li{
+    text-decoration-color: black;
+    list-style-type: none;
+    padding-bottom: 4px;
+    
+}
+
+a{
+    text-decoration-line: none;
+    color: black;
+}
+
+.name {
+    font-size: 30px;
+    padding: 20px 20px 20px 0px;
+    font-weight: 700;
+}
+
+.small_opis_kadr {
+    size: auto; font-size: 18px; padding: 3px 15px 15px 25px;
+}
+
+.opis{
+    padding-bottom: 15px;
+    
+}
+
+
+img {
+    vertical-align: middle;
+    border-style: none;
+    height: 250px;
+    width: 30%;
+    border-radius: 10px;
+}
+
+
+
+#halk .opis{
+    text-align: left;
+}
+
+
+#d_r .opis{
+    text-align: center;
+}
+
+#trigger .opis{
+    text-align: right;
+}
+
+
+@font-face {
+    font-family: ametist;
+    src: url(ametist.ttf);
+   }
+
+   #halk{
+    font-family: ametist, 'Comic Sans MS', cursive;
+   }
+
+@font-face {
+    font-family: catorze27style1-semibold;
+    src: url(catorze27style1-semibold.ttf);
+}
+#d_r {
+    font-family: catorze27style1-semibold;
+}
+
+@font-face {
+    font-family: caviar-dreams;
+    src: url(caviar-dreams.ttf);
+}
+#trigger {
+    font-family: caviar-dreams;
+}
