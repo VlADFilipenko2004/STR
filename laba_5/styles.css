@@ -17,7 +17,7 @@ h1 {
     line-height: 100px;
     margin: 0;
 }
-#fl1{
+#fl1_2_3{
     display: flex;
     flex-direction: row;
 }
@@ -25,20 +25,20 @@ h1 {
     display: flex;
     flex-direction: row-reverse;
 }
-#fl3{
+#fl4_5_6{
     display: flex;
     flex-direction: column-reverse;
 }
-#fl4{
+#fl7_8_9_10{
     display: flex;
     flex-direction: column;
 }
-#fl5{
+#fl7_8{
     height: 100%;
     display: flex;
     flex-direction: row;
 }
-#fl6{
+#fl9_10{
     height: 100%;
     display: flex;
     flex-direction: row-reverse;
